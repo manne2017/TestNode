@@ -1,2 +1,1 @@
-document.getElementById();
-//this is only for testing 
+document.getElementById(); //this is first test
